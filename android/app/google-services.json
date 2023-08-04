@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298366538762",
+    "project_id": "ulearnin-app",
+    "storage_bucket": "ulearnin-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298366538762:android:deacecffcfec3c4427fbf3",
+        "android_client_info": {
+          "package_name": "com.degrize.ulearning_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298366538762-9kg5ah6amt01e121cpqo4ogssr570jgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtIWOBDIYOdVuJ7GSEV48RGwKd1Hh9Cd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298366538762-9kg5ah6amt01e121cpqo4ogssr570jgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
